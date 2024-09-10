@@ -8,7 +8,9 @@
 
 📫 Comment me contacter : N'hésitez pas à me contacter par email professionnel : deniebaleink@gmail.com
 
-⚡ Fait amusant : J'ai 35 ans... je continue d'apprendre de nouvelles choses, tant dans le domaine technologique qu'au-delà !*
+⚡ Fait amusant : J'ai 35 ans... je continue d'apprendre de nouvelles choses, tant dans le domaine technologique qu'au-delà !
+
+>>> Vous trouverez ci dessous et/ou dans la partie "repositories" mes différents travaux et projets.<<<
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 👋 Hi, I’m @EB-proData!
 
@@ -20,7 +22,9 @@ ________________________________________________________________________________
 
 📫 How to reach me: Feel free to contact me via my professional email: deniebaleink@gmail.com
 
-⚡ Fun fact: I’m 35 years old...continuously learning new things, both in tech and beyond!
+⚡ Fun fact: I’m 35 years old...continuously learning new things, both in tech and beyond !
+
+>>> Below and/or in the "repositories" section, you will find my various works and projects.<<<
 <!---
 EB-proData/EB-proData is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
